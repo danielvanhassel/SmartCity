@@ -40,4 +40,5 @@ while isRunning:
 
     userContinue = input("Wilt u doorgaan? Typ X op te stoppen ").lower()
     if userContinue == "x":
+        print("Bye!")
         isRunning = False
