@@ -1,4 +1,4 @@
-movieTitle;release;duration (mins);genre;uitgeleend_2020;beschikbaar;gereserveerd
+movieTitle;releaseYear;DurationMins;genre;RentedAmount2020;Available;Reserved
 The Beach;2000;202;Thriller;24;2;Nee
 Grey Owl;2000;200;Drama;25;1;Ja
 Here on Earth;2000;71;Comedy;7;0;Nee
@@ -36,7 +36,7 @@ Ice Age;2002;61;Rom-com;26;0;Ja
 High Crimes;2002;109;Comedy;24;1;Nee
 Life or Something Like It;2002;66;Drama;1;1;Nee
 Unfaithful;2002;188;Thriller;24;1;Nee
-Star Wars: Episode II – Attack of the Clones;2002;65;Rom-com;39;0;Ja
+Star Wars: Episode II ï¿½ Attack of the Clones;2002;65;Rom-com;39;0;Ja
 Minority Report;2002;112;Thriller;5;1;Ja
 The First $20 Million Is Always the Hardest;2002;186;Drama;19;0;Ja
 Like Mike;2002;120;Rom-com;5;0;Ja
@@ -85,7 +85,7 @@ Robots;2005;108;Comedy;33;1;Ja
 Guess Who;2005;184;Rom-com;43;2;Ja
 Fever Pitch;2005;150;SciFi;1;2;Nee
 Kingdom of Heaven;2005;194;Romantisch;45;2;Nee
-Star Wars: Episode III – Revenge of the Sith;2005;175;Comedy;22;1;Ja
+Star Wars: Episode III ï¿½ Revenge of the Sith;2005;175;Comedy;22;1;Ja
 Mr. & Mrs. Smith;2005;199;Actie;39;2;Nee
 Rebound;2005;115;SciFi;26;2;Nee
 Fantastic Four;2005;67;Drama;0;1;Nee
