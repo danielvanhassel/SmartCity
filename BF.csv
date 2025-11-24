@@ -1,4 +1,4 @@
-movieTitle;releaseYear;DurationMins;genre;RentedAmount2020;Available;Reserved
+movieTitle;releaseYear;durationMins;genre;RentedAmount2020;Available;Reserved
 The Beach;2000;202;Thriller;24;2;Nee
 Grey Owl;2000;200;Drama;25;1;Ja
 Here on Earth;2000;71;Comedy;7;0;Nee
